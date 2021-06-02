@@ -30,7 +30,7 @@ site
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 56.25%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
 }
 
 .video-wrapper iframe {
