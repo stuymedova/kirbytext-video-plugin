@@ -17,7 +17,7 @@ More info on overriding the default tags: [getkirby.com/docs/reference/plugins/e
 
 ## Setup
 1. Put the `video` folder in `site/plugins`, such as:
-```
+```shell
 site
 └── plugins
     └── video
@@ -25,7 +25,7 @@ site
 ```
 
 2. Add the following CSS to your project:
-```
+```css
 .video-wrapper {
   position: relative;
   width: 100%;
